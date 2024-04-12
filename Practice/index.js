@@ -16,11 +16,13 @@
 // }
 
 
-let name= prompt("Enter a name")
-let counter=0
-for(i=0;i<=["name".length];i++){
-    if(name[i]== "a"||name[i]=="e"||name[i]=="i"||name[i]=="o"||name[i]=="u"){
-      counter++;
-      console.log(counter)
-    }
-}
+// let name= prompt("Enter a name")
+// let counter=0
+// for(i=0;i<=[name.length];i++)
+// {
+//     if(name[i]== "a"||name[i]=="e"||name[i]=="i"||name[i]=="o"||name[i]=="u")
+//     {
+//     counter++;
+//     }
+//   }
+//   prompt(counter)
