@@ -32,14 +32,15 @@
 
 //Create a function to find minimum of three number
 
-let num1 = prompt("Enter a number a")
-let num2 = prompt("Enter a number b")
-let num3 = prompt("Enter a number c")
+// let num1 = prompt("Enter a number a")
+// let num2 = prompt("Enter a number b")
+// let num3 = prompt("Enter a number c")
 
-if (num1<num2 && num1<num3){
-    prompt("The num1 is minimum")
-} else if (num2<num1 && num2<num3){
-    prompt("The num2 is minimum")
-} else {
-    prompt("The num3 is minimum")
-}
+// if (num1<num2 && num1<num3){
+//     prompt("The num1 is minimum")
+// } else if (num2<num1 && num2<num3){
+//     prompt("The num2 is minimum")
+// } else {
+//     prompt("The num3 is minimum")
+// }
+
