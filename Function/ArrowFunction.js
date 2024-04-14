@@ -121,13 +121,13 @@ const user ={
 
 // write a program to find index of a number in given array
  
-let number= [1,2,3,4,5]
-let rest =number.findIndex(findNumber)
-function findNumber(value) {
-    return value ===6;
+// let number= [1,2,3,4,5]
+// let rest =number.findIndex(findNumber)
+// function findNumber(value) {
+//     return value ===4;
     
-}
-console.log(rest)
+// }
+// console.log(rest)
     
 
 
@@ -190,5 +190,30 @@ console.log(rest)
 //      index+currentValue)
      
 //      console.log(array/sum)
+
+
+
+
+// Star print 
+
+// for (let index = 1; index <=5-1; index++) {
+//     let row =""
+//     for (let j =0; j <index-1; j++) {
+      
+//      row+="*"
+    
+
+//      console.log(row)
+
+
+
+        
+        
+//     }
+    
+// }
+
+
+
 
 

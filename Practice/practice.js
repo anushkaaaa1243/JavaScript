@@ -44,3 +44,24 @@
 //     prompt("The num3 is minimum")
 // }
 
+
+
+// //  Check if a given year is a leap year
+
+// let x = prompt("Enter a year name")
+// if(x%4==0){
+//     prompt("This is a leap year")
+// } else {
+//     prompt("This is a not leap year") 
+// }
+
+//  let value = prompt("Enter the number")
+// if(Math.sqrt(value) === Math.floor(Math.sqrt(value)) ){
+//     prompt("The given value is square")
+// } else {
+//     prompt("The given value is not square")
+// }  
+
+
+// Check if a number is palindrome or not
+
