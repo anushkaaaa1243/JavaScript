@@ -53,8 +53,9 @@
     
 
 
+// find the sum of all even number is an array
 
-//    // find the sum of all even number is an array
+
 // let value = [1,3,4,5,6,7,3,2,6,8,9,20]
 // let evenNumber = value.filter(value=>value%2===0)
 // let sum = evenNumber.reduce((num,even)=>num+even)
@@ -64,7 +65,8 @@
 
 // Find the longest word in a sentence
  
-    
+let word ="My nu"
+
 
 // Check if a number is palindrome or not
 

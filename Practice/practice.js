@@ -64,4 +64,15 @@
 
 
 // Check if a number is palindrome or not
+let word = prompt("Enter a value")
+let reverseWOrd = word.toString().split("").reverse().join("")
+if(word==reverseWOrd){
+    console.log("This is palindrome")
+}
+else {
+    console.log("This is not palindrome")
+}
 
+// Find the longest word in a sentence
+ 
+l
